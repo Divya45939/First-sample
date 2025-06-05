@@ -1,2 +1,0 @@
-# First-sample
-First Repo
